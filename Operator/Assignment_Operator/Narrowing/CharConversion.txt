@@ -1,0 +1,10 @@
+
+class CharConversion{
+     public static void main(String args[]){
+	     
+		 char ch='a';
+		 
+		 short s=ch;
+		 System.out.println(s);
+	 }
+}
